@@ -1,2 +1,2 @@
 # SalesTaxCalc
-A thing to calculate sales taz
+A thing to calculate sales tax
